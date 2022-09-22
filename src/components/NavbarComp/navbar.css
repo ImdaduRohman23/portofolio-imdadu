@@ -1,0 +1,16 @@
+nav a.nav-link {
+    font-weight: 500;
+    letter-spacing: 0.6px;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+nav a.nav-link:focus {
+    border-bottom: solid 3px black;
+}
+
+nav a.nav-link:hover {
+    border-bottom: solid 3px black;
+}
+
+
